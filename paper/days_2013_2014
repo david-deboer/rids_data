@@ -1,0 +1,128 @@
+cd ..
+prepzen.py -d 2456620
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456622
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456626
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456627
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456650
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456660
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456662
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456664
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456666
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456668
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456670
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456671
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456672
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456673
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456674
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456675
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456676
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456677
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456678
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456679
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456680
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456684
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456685
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456686
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456687
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456688
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456689
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456690
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456691
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456697
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456698
+cd proc_ridzen
+specpeak.py paper.ridm
+cd ..
+prepzen.py -d 2456699
+cd proc_ridzen
+specpeak.py paper.ridm

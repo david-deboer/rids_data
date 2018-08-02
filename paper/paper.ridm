@@ -1,0 +1,12 @@
+{
+    "instrument": "PAPER_array",
+    "receiver":  "ROACH2/GPU-correlator",
+    "channel_width":  "122 kHz",
+    "time_constant":  "std data",
+    "threshold": "0.25 lin",
+    "freq_unit": "MHz",
+    "val_unit": "lin",
+    "comment":  "old PAPER data",
+    "time_format": "Julian",
+    "bw_range": [-10.0, 10.0]
+}
