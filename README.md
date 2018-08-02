@@ -24,7 +24,7 @@ You can look at time streams, e.g.
 
 ```rdhandle.py sa_SpectrumPeak.20180526-200103.n33768.None.ridz --stream val -f 70,80```
 
-To look at the the maxhold data, you need to find the keys (another time...).  To view the week-long one:
+To look at the the maxhold data, you need to find the keys (no good tool yet) - to view the week-long one:
 
 ```rdhandle.py A12_SpectrumPeak.20180716-173654.n7.None.ridz --stack maxhold --keys data.20180725-133149.E --legend```
 
