@@ -1,6 +1,6 @@
 This is a temporary repo for first data.
 
-It uses RIDS, so clone the rids repo from HERA_Team and `python setup.py install`
+It uses RIDS, so clone the rids repo from HERA_Team (https://github.com/HERA-Team/rids) and `python setup.py install`
 
 To view the spectrum analyzer data, go into the instek sub-directory and use the `rdhandle.py` script from rids.  Use `rdhandle.py -h` to see options.
 
